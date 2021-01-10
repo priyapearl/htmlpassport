@@ -1,0 +1,221 @@
+h1 {
+
+    text-align: center;
+    color:blue;
+    text-shadow:4px 4px 2px rgb(145, 145, 226);
+}
+
+
+body {
+     background-color: rgb(235, 215, 213);
+}
+
+
+section {
+    height: 100vh;
+}
+
+.passport {
+
+    width: 946px;
+    border: black;
+    margin: auto;
+    padding: 50px;
+    background-color: rgb(234, 235, 159);
+    justify-content: center;   
+}
+
+.countryname {
+    
+    width: 968px;
+    padding: 5px;
+    justify-content: center;
+    background-color: rgb(172, 172, 233);
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.photowrap {
+    
+    width: 250px;
+    padding: 10px;
+    float: left;
+    background-color: rgb(172, 172, 233) ;
+    margin: -1px;
+    
+}
+
+.passportdetail {
+    
+    width: 681px;
+    padding: 10px;
+    background-color: rgb(172, 172, 233);
+    margin-left: 277px;
+    height: 245px;
+    
+}
+
+.tcp {
+    overflow: auto;
+    background-color: seagreen;
+    margin-bottom: 10px;
+}
+
+
+.signature {
+    width: 257px;
+    background-color: rgb(172, 172, 233);
+    float: left;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    overflow: hidden;
+    height: 105px;
+}
+
+
+.idProofDetail {
+    height: 95px;
+    width: 676px;
+    background-color: rgb(172, 172, 233);
+    margin-left: 283px;
+    padding: 10px;
+}
+
+
+
+.photo {
+    height: 247px;
+    width: 240px;
+    background-color: rgb(243, 195, 203);
+    margin: 0px;
+    padding: 0px;
+    margin-right: 5px;
+}
+
+/* .name {
+    
+    width: 683px;
+    background-color: rgb(243, 195, 203) ;
+    margin-top: 10px;
+} */
+
+.Surname {
+    
+    width: 682px;
+    background-color: rgb(243, 195, 203);
+    margin-top: 10px;
+    padding: 1px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.Givenname {
+    
+    width: 682px;
+    background-color: rgb(243, 195, 203);
+    margin-top: 10px;
+    padding: 1px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.personalDetails {
+
+    background-color: seagreen;
+    margin: -2px;
+    margin-top: 10px;
+    height: 45px;
+    margin-bottom: 10px;
+}
+
+.placeofbirth {
+    
+    width: 677px;
+    background-color: rgb(243, 195, 203) ;
+    margin-top: 10px;
+    padding: 3px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+
+.dateofexpiry {
+    
+    width: 672px;
+    background-color: rgb(243, 195, 203);
+    float: left;
+    margin: 5px; 
+}
+
+.validation {
+    
+    width: 653px;
+    background-color: rgb(243, 195, 203);
+    padding: 10px;
+    float: left;
+    margin: 4px;
+}
+
+
+.innerfieldcol3 {
+    width: 178px;
+    float: left;
+    margin: 10px;
+    background-color:rgb(233, 106, 106);
+    padding:3px;
+}
+
+.innerfieldcol2 {
+    width: 178px;
+    float: left;
+    margin: -9px;
+    background-color:rgb(233, 106, 106);
+    padding: 3px;
+    margin-right: 39px;
+}
+
+img {
+    width: 243px;
+    margin: 0px 5px 5px 0px;
+}
+
+
+.placeofissue {
+    width: 200px;
+    background-color: rgb(243, 195, 203);
+    width: 667px;
+    background-color: rgb(243, 195, 203);
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.consolidation {    
+    width: 960px;
+    background-color: rgb(172, 172, 233);
+    margin-top: 48px;
+    padding: 10px;
+}
+
+.signature img {
+    width: 218px;
+    height: 72px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
